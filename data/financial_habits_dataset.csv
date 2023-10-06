@@ -1,0 +1,81 @@
+,User_ID,Savings_Points,Budget_Adherence_Points,Expense_Tracking_Points,Timely_Bill_Payments_Points,Avoiding_Unnecessary_Expenses_Points,Goal_Progress_Points,Debt_Management_Points,Financial_Education_Points,Regular_App_Usage_Points,Security_Privacy_Points,Community_Social_Points,Total_Points,Recommended_Habits_1,Recommended_Habits_2,Recommended_Habits_3,Recommended_Habits_4
+0,1,16,12,8,10,9,13,9,4,5,5,5,96,Reduce Credit Card Debt,Start Investing in Stocks,Create a Budget,Increase Savings Rate
+1,2,18,13,9,10,9,15,10,5,5,5,5,104,Increase Savings Rate,Track Your Expenses,Start Emergency Fund,Invest in a Tax-Advantaged Account
+2,3,12,9,6,10,9,11,7,5,5,5,5,84,Pay Off High-Interest Debt,Create an Emergency Fund,Reduce Unnecessary Spending,Start Retirement Planning
+3,4,20,15,10,10,9,15,10,5,5,5,5,109,Increase Retirement Contributions,Invest in a Tax-Advantaged Account,Start Retirement Planning,Reduce Credit Card Debt
+4,5,17,12,8,10,9,13,9,4,5,5,5,97,Create an Emergency Fund,Start Investing in Stocks,Reduce Credit Card Debt,Increase Savings Rate
+5,6,20,15,10,10,9,15,10,5,5,5,5,120,Start Retirement Planning,Increase Retirement Contributions,Create a Budget,Invest in a Tax-Advantaged Account
+6,7,14,10,7,10,9,11,7,5,5,5,5,87,Invest in a Tax-Advantaged Account,Reduce Credit Card Debt,Increase Savings Rate,Track Your Expenses
+7,8,19,14,9,10,9,14,9,5,5,5,5,108,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
+8,9,21,15,10,10,9,15,10,5,5,5,5,120,Increase Savings Rate,Create a Budget,Start Retirement Planning,Track Your Expenses
+9,10,18,13,8,10,9,13,9,5,5,5,5,101,Track Your Expenses,Pay Off High-Interest Debt,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending
+10,11,16,11,7,10,9,12,8,5,5,5,5,93,Reduce Credit Card Debt,Start Investing in Stocks,Create a Budget,Increase Savings Rate
+11,12,18,13,8,10,9,13,9,5,5,5,5,101,Track Your Expenses,Increase Savings Rate,Start Emergency Fund,Invest in a Tax-Advantaged Account
+12,13,12,9,6,10,9,11,7,5,5,5,5,78,Pay Off High-Interest Debt,Create an Emergency Fund,Reduce Unnecessary Spending,Start Retirement Planning
+13,14,20,14,10,10,9,14,9,5,5,5,5,121,Increase Retirement Contributions,Invest in a Tax-Advantaged Account,Start Retirement Planning,Reduce Credit Card Debt
+14,15,17,11,8,10,9,13,8,5,5,5,5,96,Create an Emergency Fund,Start Investing in Stocks,Reduce Credit Card Debt,Increase Savings Rate
+15,16,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Create a Budget,Start Retirement Planning,Increase Retirement Contributions
+16,17,15,11,7,10,9,11,7,5,5,5,5,84,Invest in a Tax-Advantaged Account,Reduce Credit Card Debt,Increase Savings Rate,Track Your Expenses
+17,18,19,13,9,10,9,14,9,5,5,5,5,107,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
+18,19,20,14,10,10,9,15,10,5,5,5,5,123,Create a Budget,Start Retirement Planning,Increase Savings Rate,Track Your Expenses
+19,20,16,12,8,10,9,13,9,5,5,5,5,93,Pay Off High-Interest Debt,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending,Start Emergency Fund
+20,21,15,11,7,10,9,11,7,5,5,5,5,84,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt,Start Investing in Stocks
+21,22,17,12,8,10,9,13,9,5,5,5,5,101,Invest in a Tax-Advantaged Account,Start Emergency Fund,Increase Savings Rate,Track Your Expenses
+22,23,13,9,6,10,9,11,7,5,5,5,5,80,Reduce Unnecessary Spending,Start Retirement Planning,Pay Off High-Interest Debt,Create an Emergency Fund
+23,24,20,14,10,10,9,14,9,5,5,5,5,123,Increase Retirement Contributions,Invest in a Tax-Advantaged Account,Start Retirement Planning,Reduce Credit Card Debt
+24,25,16,11,8,10,9,13,8,5,5,5,5,96,Create an Emergency Fund,Start Investing in Stocks,Reduce Credit Card Debt,Increase Savings Rate
+25,26,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Create a Budget,Start Retirement Planning,Increase Retirement Contributions
+26,27,15,11,7,10,9,11,7,5,5,5,5,84,Invest in a Tax-Advantaged Account,Reduce Credit Card Debt,Increase Savings Rate,Track Your Expenses
+27,28,19,13,9,10,9,14,9,5,5,5,5,107,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
+28,29,20,14,10,10,9,15,10,5,5,5,5,123,Create a Budget,Start Retirement Planning,Increase Savings Rate,Track Your Expenses
+29,30,16,12,8,10,9,13,8,5,5,5,5,96,Pay Off High-Interest Debt,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending,Start Emergency Fund
+30,31,15,11,7,10,9,11,7,5,5,5,5,84,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+31,32,18,13,9,10,9,13,9,5,5,5,5,101,Invest in a Tax-Advantaged Account,Start Emergency Fund,Track Your Expenses,Increase Savings Rate
+32,33,13,9,6,10,9,11,7,5,5,5,5,80,Pay Off High-Interest Debt,Create an Emergency Fund,Reduce Unnecessary Spending,Start Retirement Planning
+33,34,20,14,10,10,9,14,9,5,5,5,5,123,Reduce Credit Card Debt,Invest in a Tax-Advantaged Account,Increase Retirement Contributions,Start Retirement Planning
+34,35,16,11,8,10,9,13,8,5,5,5,5,96,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+35,36,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Start Retirement Planning,Increase Retirement Contributions,Create a Budget
+36,37,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+37,38,19,13,9,10,9,14,9,5,5,5,5,107,Start Emergency Fund,Create a Budget,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending
+38,39,20,14,10,10,9,15,10,5,5,5,5,123,Start Retirement Planning,Increase Savings Rate,Track Your Expenses,Start Investing in Stocks
+39,40,17,12,8,10,9,13,8,5,5,5,5,97,Pay Off High-Interest Debt,Reduce Unnecessary Spending,Invest in a Tax-Advantaged Account,Start Emergency Fund
+40,41,15,11,7,10,9,11,7,5,5,5,5,84,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt,Start Investing in Stocks
+41,42,19,13,9,10,9,14,9,5,5,5,5,107,Start Emergency Fund,Create a Budget,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending
+42,43,20,14,10,10,9,15,10,5,5,5,5,123,Start Retirement Planning,Increase Savings Rate,Track Your Expenses,Start Investing in Stocks
+43,44,17,12,8,10,9,13,8,5,5,5,5,97,Pay Off High-Interest Debt,Reduce Unnecessary Spending,Invest in a Tax-Advantaged Account,Start Emergency Fund
+44,45,13,9,6,10,9,11,7,5,5,5,5,80,Reduce Unnecessary Spending,Start Retirement Planning,Pay Off High-Interest Debt,Create an Emergency Fund
+45,46,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Create a Budget,Start Retirement Planning,Increase Retirement Contributions
+46,47,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+47,48,19,13,9,10,9,14,9,5,5,5,5,107,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
+48,49,20,14,10,10,9,15,10,5,5,5,5,123,Create a Budget,Start Retirement Planning,Increase Savings Rate,Track Your Expenses
+49,50,16,12,8,10,9,13,8,5,5,5,5,96,Pay Off High-Interest Debt,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending,Start Emergency Fund
+50,51,15,11,7,10,9,11,7,5,5,5,5,84,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+51,52,18,13,9,10,9,13,9,5,5,5,5,101,Invest in a Tax-Advantaged Account,Start Emergency Fund,Track Your Expenses,Increase Savings Rate
+52,53,13,9,6,10,9,11,7,5,5,5,5,80,Pay Off High-Interest Debt,Create an Emergency Fund,Reduce Unnecessary Spending,Start Retirement Planning
+53,54,20,14,10,10,9,14,9,5,5,5,5,123,Reduce Credit Card Debt,Invest in a Tax-Advantaged Account,Increase Retirement Contributions,Start Retirement Planning
+54,55,16,11,8,10,9,13,8,5,5,5,5,96,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+55,56,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Start Retirement Planning,Increase Retirement Contributions,Create a Budget
+56,57,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+57,58,19,13,9,10,9,14,9,5,5,5,5,107,Start Emergency Fund,Create a Budget,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending
+58,59,20,14,10,10,9,15,10,5,5,5,5,123,Start Retirement Planning,Increase Savings Rate,Track Your Expenses,Start Investing in Stocks
+59,60,17,12,8,10,9,13,8,5,5,5,5,97,Pay Off High-Interest Debt,Reduce Unnecessary Spending,Invest in a Tax-Advantaged Account,Start Emergency Fund
+60,61,13,9,6,10,9,11,7,5,5,5,5,80,Reduce Unnecessary Spending,Start Retirement Planning,Pay Off High-Interest Debt,Create an Emergency Fund
+61,62,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Create a Budget,Start Retirement Planning,Increase Retirement Contributions
+62,63,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+63,64,19,13,9,10,9,14,9,5,5,5,5,107,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
+64,65,20,14,10,10,9,15,10,5,5,5,5,123,Create a Budget,Start Retirement Planning,Increase Savings Rate,Track Your Expenses
+65,66,16,12,8,10,9,13,8,5,5,5,5,96,Pay Off High-Interest Debt,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending,Start Emergency Fund
+66,67,15,11,7,10,9,11,7,5,5,5,5,84,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+67,68,18,13,9,10,9,13,9,5,5,5,5,101,Invest in a Tax-Advantaged Account,Start Emergency Fund,Track Your Expenses,Increase Savings Rate
+68,69,13,9,6,10,9,11,7,5,5,5,5,80,Pay Off High-Interest Debt,Create an Emergency Fund,Reduce Unnecessary Spending,Start Retirement Planning
+69,70,20,14,10,10,9,14,9,5,5,5,5,123,Reduce Credit Card Debt,Invest in a Tax-Advantaged Account,Increase Retirement Contributions,Start Retirement Planning
+70,71,16,11,8,10,9,13,8,5,5,5,5,96,Start Investing in Stocks,Create a Budget,Increase Savings Rate,Reduce Credit Card Debt
+71,72,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Start Retirement Planning,Increase Retirement Contributions,Create a Budget
+72,73,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+73,74,19,13,9,10,9,14,9,5,5,5,5,107,Start Emergency Fund,Create a Budget,Invest in a Tax-Advantaged Account,Reduce Unnecessary Spending
+74,75,20,14,10,10,9,15,10,5,5,5,5,123,Start Retirement Planning,Increase Savings Rate,Track Your Expenses,Start Investing in Stocks
+75,76,17,12,8,10,9,13,8,5,5,5,5,97,Pay Off High-Interest Debt,Reduce Unnecessary Spending,Invest in a Tax-Advantaged Account,Start Emergency Fund
+76,77,13,9,6,10,9,11,7,5,5,5,5,80,Reduce Unnecessary Spending,Start Retirement Planning,Pay Off High-Interest Debt,Create an Emergency Fund
+77,78,21,15,10,10,9,15,10,5,5,5,5,126,Invest in a Tax-Advantaged Account,Create a Budget,Start Retirement Planning,Increase Retirement Contributions
+78,79,15,11,7,10,9,11,7,5,5,5,5,84,Increase Savings Rate,Invest in a Tax-Advantaged Account,Track Your Expenses,Reduce Credit Card Debt
+79,80,19,13,9,10,9,14,9,5,5,5,5,107,Reduce Unnecessary Spending,Start Emergency Fund,Invest in a Tax-Advantaged Account,Create a Budget
