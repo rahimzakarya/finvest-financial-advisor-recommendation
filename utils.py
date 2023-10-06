@@ -1,7 +1,6 @@
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 import openai
-import json
 
 def recommend_habits_knn(df, user_info, num_recommendations=3):
     """
